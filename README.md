@@ -36,7 +36,7 @@
 ---
 
 ## 📌 En ce moment, je suis en train de :
-- Apprendre **React, Next.js et Vue.js**
+- Développer des produits numériques à partir de React, Next.js et Vue.js**
 - Je suis en stage
 - Participer à des projets open source
 
