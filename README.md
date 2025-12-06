@@ -36,7 +36,7 @@
 ---
 
 ## 📌 En ce moment, je suis en train de :
-- Développer des produits numériques à partir de React, Next.js et Vue.js**
+- Développer des produits numériques à partir de React, Next.js et Vue.js
 - Je suis en stage
 - Participer à des projets open source
 
@@ -46,7 +46,7 @@
 
 | Frontend             | Backend              | Outils & Plateformes       |
 |----------------------|----------------------|----------------------------|
-| JavaScript / TypeScript | Node.js             | Git                        |
+| JavaScript           | Node.js              | Git                        |
 | React / Vue.js       | Express              | VS Code                    |
 | HTML / CSS           | PHP                  | Figma                      |
 | Bootstrap / Tailwind CSS | MariaDB          | Vercel                     |
