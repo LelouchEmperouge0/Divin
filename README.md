@@ -2,10 +2,10 @@
 
 <div align="center">
   <h1>👋 Salut ! Je m'appelle Divin</h1>
-  <p><em>Développeur full-stack passionné par les technologies web modernes 🚀</em></p>
+  <p><em>Développeur Full-Stack · Étudiant en Sciences de l'Ingénieur · Lomé, Togo 🇹🇬</em></p>
 
   <!-- Icônes des technologies -->
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,html,css,nodejs,express,php,firebase,bootstrap,tailwind,git,figma,vercel" alt="Stack technique" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,nuxt,nextjs,html,css,nodejs,express,php,strapi,mysql,supabase,flutter,bootstrap,tailwind,git,figma,vercel" alt="Stack technique" />
 
   <!-- Liens sociaux -->
   <div>
@@ -17,6 +17,9 @@
     </a>
     <a href="https://wa.me/qr/2PFP6SJREO56L1" target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="mailto:divintona@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://github.com/LelouchEmperouge0" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -36,27 +39,37 @@
 ---
 
 ## 📌 En ce moment, je suis en train de :
-- Développer des produits numériques à partir de React, Next.js et Vue.js
-- Je suis en stage
-- Participer à des projets open source
+
+- 🏢 **Stage chez EDOMATCH** — Développeur Frontend (déc. 2025 → mai 2026) :
+  - *Jobseeker Portal* : UI + tri de CV par IA + CV Builder alimenté par IA
+  - *Business.app* : module SaaS ATS (publication d'offres, évaluation automatisée, AI-Hiring)
+  - *HR-Suite* : paie internationale (Ghana, Côte d'Ivoire), i18n FR/EN/NL, tests Vitest
+- 🤖 Développer **Auto-Apply Agent** : veille d'offres et candidatures automatisées (Python)
+- 🤝 Participer à des projets open source
 
 ---
 
 ## 🧩 Technologies que j'utilise :
 
-| Frontend             | Backend              | Outils & Plateformes       |
-|----------------------|----------------------|----------------------------|
-| JavaScript           | Node.js              | Git                        |
-| React / Vue.js       | Express              | VS Code                    |
-| HTML / CSS           | PHP                  | Figma                      |
-| Bootstrap / Tailwind CSS | MariaDB          | Vercel                     |
-|                      | Firebase             |                            |
+| Frontend | Backend | Bases de données | Outils & Plateformes |
+|---|---|---|---|
+| JavaScript / TypeScript | Node.js / Express | MySQL / MariaDB | Git / GitHub |
+| React / Vue.js / Nuxt | PHP / Strapi | Supabase / Firebase | VS Code / Figma |
+| Next.js | Flutter (mobile) | — | Vercel / Vite / Vitest |
+| HTML5 / CSS3 / Tailwind | — | — | — |
+
+## 🎓 Formation
+
+- 🎓 **Licence en Sciences de l'Ingénieur** — filière Génie Logiciel (IAEC, 2026)
 
 ---
 
 ## 📬 Contact & Liens
-- ✉️ **Email** : [divintona@gmail.com](mailto:divintona@gmail.com)
-- 🌐 **Portfolio** : [https://divin.vercel.app/](https://divin.vercel.app/) *(en cours de finalisation)*
-- 💼 **GitHub** : [github.com/LelouchEmperouge0](https://github.com/LelouchEmperouge0)
 
-> 🌱 *Je construis des applications utiles, élégantes et accessibles — avec un fort accent sur l’expérience utilisateur et la qualité du code.*
+- ✉️ **Email** : [divintona@gmail.com](mailto:divintona@gmail.com)
+- 🌐 **Portfolio** : [divin-portfolio.vercel.app](https://divin-portfolio.vercel.app) ✅ *en ligne*
+- 💼 **LinkedIn** : [Tona Kokou Divin AGBENOHEVI](https://www.linkedin.com/in/tona-kokou-divin-agbenohevi-6a9a81307)
+- 💬 **WhatsApp** : [+228 70 52 86 79](https://wa.me/qr/2PFP6SJREO56L1)
+- 👨‍💻 **Profil GitHub** : [github.com/LelouchEmperouge0](https://github.com/LelouchEmperouge0)
+
+> 💬 *Je construis des applications utiles, élégantes et accessibles — avec un fort accent sur l'expérience utilisateur et la qualité du code.*
